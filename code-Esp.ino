@@ -1,10 +1,11 @@
 #include <WiFi.h>
 #include <WebServer.h>
 #include <ESPmDNS.h>
+#include "secrets.h"
 
 // ----------- WiFi -----------
-const char* ssid = "WE";
-const char* password = "123456789";
+const char* ssid = WIFI_SSID;
+const char* password = WIFI_PASSWORD;
 
 WebServer server(80);
 

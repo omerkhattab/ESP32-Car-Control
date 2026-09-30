@@ -9,3 +9,13 @@ Features:
 - Real-time response
 - Simple web UI
 - mechanical control
+
+## WiFi configuration
+
+WiFi credentials are kept in the untracked `secrets.h` file.
+
+1. Copy `secrets.h.example` to `secrets.h`.
+2. Replace the placeholder values with your WiFi name and password.
+3. Upload `code-Esp.ino` to the ESP32.
+
+The `.gitignore` file prevents `secrets.h` from being committed accidentally.
