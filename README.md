@@ -8,3 +8,4 @@ Features:
 - Forward/backward/left/right
 - Real-time response
 - Simple web UI
+- mechanical control
