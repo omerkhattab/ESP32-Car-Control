@@ -19,3 +19,6 @@ WiFi credentials are kept in the untracked `secrets.h` file.
 3. Upload `code-Esp.ino` to the ESP32.
 
 The `.gitignore` file prevents `secrets.h` from being committed accidentally.
+<!-- name of owners -->
+### Omer Khattab 
+### Mohammed Omer
