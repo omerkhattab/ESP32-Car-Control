@@ -20,5 +20,6 @@ WiFi credentials are kept in the untracked `secrets.h` file.
 
 The `.gitignore` file prevents `secrets.h` from being committed accidentally.
 <!-- name of owners -->
-### Omer Khattab 
-### Mohammed Omer
+### /Name of owners
+#### Omer Khattab 
+#### Mohammed Omer
